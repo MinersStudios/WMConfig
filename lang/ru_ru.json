@@ -48,7 +48,7 @@
 
     "ms.command.mute.already.receiver": "Вы замьючены",
     "ms.command.mute.already.sender": "Игрок : \"{0}\" ({1}) уже замьючен",
-    "ms.command.mute.message.receiver": "Вы были замьючены : \n    - Причина : \"{2}\"\n    - До : {3}",
+    "ms.command.mute.message.receiver": "Вы были замьючены : \n    - Причина : \"{0}\"\n    - До : {1}",
     "ms.command.mute.message.sender": "Игрок : \"{0}\" ({1}) был замьючен :\n    - Причина : \"{2}\"\n    - До : {3}",
 
     "ms.command.unmute.not_muted": "Игрок : \"{0}\" ({1}) не замьючен",
@@ -87,6 +87,9 @@
     "ms.command.msutils.reload.success": "Плагин был успешно перезагружен за {0} мс",
     "ms.command.msutils.update_ids.success": "Список айди был успешно перезагружен за {0} мс",
     "ms.command.msutils.update_mutes.success": "Список мутов был успешно перезагружен за {0} мс",
+
+    "ms.command.mscore.reload_language.success": "Перевод был успешно перезагружен за {0} мс",
+    "ms.command.mscore.reload_config.success": "Конфиг был успешно перезагружен за {0} мс",
 
     "ms.menu.crafts.categories.title": "뀂ꀲ",
     "ms.menu.crafts.category.title": "뀂ꀧ",
