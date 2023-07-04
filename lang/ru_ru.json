@@ -122,6 +122,8 @@
     "ms.command.msitem.give.wrong_item": "Такого предмета не существует!",
     "ms.command.msitem.give.success": "Выдано {0} {1} Игроку : {2}",
     "ms.command.msitem.reload.success": "Плагин был успешно перезагружен за {0} мс",
+    "ms.command.discord.link.code.generated": "Ваш новый сгенерированый код : {0}",
+    "ms.command.discord.link.success": "Ваш аккаунт был привязан к : {0}",
     "ms.menu.crafts.categories.title": "뀂ꀲ",
     "ms.menu.crafts.category.title": "뀂ꀧ",
     "ms.menu.crafts.craft.title": "뀂ꀨ",
