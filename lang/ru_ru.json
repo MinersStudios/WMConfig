@@ -1,7 +1,7 @@
 {
     "ms.format.leave.message": "{0}\n\n<---====+====--->\n\n{1}\n\n<---====+====--->",
     "ms.on_disable.message.title": "Выключение сервера",
-    "ms.on_disable.message.subtitle": "Ну шо грифер, запустил свою лаг машину?",
+    "ms.on_disable.message.subtitle": "Адмін даун, як завжди.",
     "ms.server_not_fully_loaded.title": "Вы были кикнуты",
     "ms.server_not_fully_loaded.subtitle": "Сервер ещё не запущен",
     "ms.info.player_file_created": "Создан файл с данными игрока : \"{0}\" с названием : \"{1}.yml\"",
