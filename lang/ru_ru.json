@@ -8,7 +8,7 @@
     "ms.server_not_fully_loaded.title": "Вы были кикнуты",
     "ms.server_not_fully_loaded.subtitle": "Сервер ещё не запущен",
     "ms.something_went_wrong.title": "Вы были кикнуты",
-    "ms.something_went_wrong.subtitle": "\nКажется, что-то пошло не так\nПожалуйста, обратитесь к администрации\n\nhttps:\\\\whomine.net\\discord\n",
+    "ms.something_went_wrong.subtitle": "\nКажется, что-то пошло не так\nПожалуйста, обратитесь к администрации\n\nhttps:\\\\discord.whomine.net\n",
     "ms.info.player_file_created": "Создан файл с данными игрока : \"{0}\" с названием : \"{1}.yml\"",
     "ms.info.player_item_removed": "У игрока : {0} был удалён предмет : \n\"{1}\"",
     "ms.info.player_added_ip": "Игроку : \"{0}\" ({1}) был добавлен новый айпи адрес : \"{2}\"",
