@@ -1,0 +1,5 @@
+key: "totem_of_undying_ren01"
+renames: "ren01"
+items: TOTEM_OF_UNDYING
+custom-model-data: 31
+show-in-rename-menu: false

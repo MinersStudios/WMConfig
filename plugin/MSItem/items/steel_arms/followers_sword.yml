@@ -1,0 +1,14 @@
+key: "followers_sword"
+renames: "Меч последовотеля"
+items: 
+  - WOODEN_SWORD
+  - STONE_SWORD
+  - IRON_SWORD
+  - GOLDEN_SWORD
+  - DIAMOND_SWORD
+  - NETHERITE_SWORD
+custom-model-data: 21
+show-in-rename-menu: true
+white-list:
+  - a69b130f-01f8-3479-b4e2-da38b502e78c
+  - 7894acba-5cc6-3b87-99a7-ddeb26b3e2c0

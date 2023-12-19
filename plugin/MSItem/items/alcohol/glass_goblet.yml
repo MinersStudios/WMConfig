@@ -1,0 +1,7 @@
+key: "glass_goblet"
+renames: "Стеклянный бокал"
+items: 
+  - GLASS_BOTTLE
+  - POTION
+custom-model-data: 4
+show-in-rename-menu: true

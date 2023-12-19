@@ -1,0 +1,14 @@
+key: "sculk_cleaver"
+renames: "Скалковый тесак"
+items: 
+  - WOODEN_SWORD
+  - STONE_SWORD
+  - IRON_SWORD
+  - GOLDEN_SWORD
+  - DIAMOND_SWORD
+  - NETHERITE_SWORD
+custom-model-data: 22
+show-in-rename-menu: true
+white-list:
+  - a69b130f-01f8-3479-b4e2-da38b502e78c
+  

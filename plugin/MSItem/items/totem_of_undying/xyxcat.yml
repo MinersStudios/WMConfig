@@ -1,0 +1,5 @@
+key: "totem_of_undying_xyxcat"
+renames: "xyxcat"
+items: TOTEM_OF_UNDYING
+custom-model-data: 38
+show-in-rename-menu: false

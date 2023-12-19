@@ -1,0 +1,5 @@
+key: "totem_of_undying_kloydy"
+renames: "_kloydy_"
+items: TOTEM_OF_UNDYING
+custom-model-data: 2
+show-in-rename-menu: false
