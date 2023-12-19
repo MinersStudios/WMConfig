@@ -7,14 +7,14 @@
     Miners Studios
     <br><br>
     <div>
-      <a href="https://github.com/MinersStudios/MSTranslations/stargazers">
-        <img alt="Stars" src="https://img.shields.io/github/stars/MinersStudios/MSTranslations?style=for-the-badge&color=FFF2CC&labelColor=302D41">
+      <a href="https://github.com/MinersStudios/MSConfigs/stargazers">
+        <img alt="Stars" src="https://img.shields.io/github/stars/MinersStudios/MSConfigs?style=for-the-badge&color=FFF2CC&labelColor=302D41">
       </a>
-      <a href="https://github.com/MinersStudios/MSTranslations/contributors">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/MinersStudios/MSTranslations?style=for-the-badge&color=d5c3f0&labelColor=302D41">
+      <a href="https://github.com/MinersStudios/MSConfigs/contributors">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/MinersStudios/MSConfigs?style=for-the-badge&color=d5c3f0&labelColor=302D41">
       </a>
       <a href="#">
-        <img alt="GitHub code size in bytes" src="https://staging.shields.io/github/directory-file-count/MinersStudios/MSTranslations?style=for-the-badge&label=TRANSLATIONS&logo=googletranslate&color=a6da95&labelColor=302D41&logoColor=d9e0ee">
+        <img alt="GitHub code size in bytes" src="https://staging.shields.io/github/directory-file-count/MinersStudios/MSConfigs?style=for-the-badge&label=TRANSLATIONS&logo=googletranslate&color=a6da95&labelColor=302D41&logoColor=d9e0ee">
       </a>
       <br>
       <a href="https://whomine.net/discord">
@@ -29,7 +29,7 @@
   <br>
 
   <p>
-    The translation repository for WhoMine<br>
+    The configuration repository for WhoMine<br>
     (Project is in development, so there is shit)
   </p>
 </div>
