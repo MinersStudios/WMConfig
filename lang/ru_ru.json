@@ -193,6 +193,8 @@
     "ms.discord.skin.successfully_removed.minecraft": "Вы успешно удалили свой скин : {0}",
     "ms.discord.skin.successfully_renamed": "```Вы успешно изменили имя скина :\n{0}\nНа :\n{1}\n\nНа своём аккаунте :\n{2} ({3})```",
     "ms.discord.skin.successfully_renamed.minecraft": "Вы успешно изменили имя скина :\n    {0}\n    На : {1}",
+    "ms.discord.command.list_of_skins": "```Вот список ваших скинов: {0}```",
+    "ms.discord.command.skin_not_found": "На вашем аккаунте не был найден скин по запросу : {0}",
     "ms.menu.skins.title": "\uE047\uE035",
     "ms.menu.skins.button.apply": "Применить скин",
     "ms.menu.skins.button.delete": "Удалить скин",
