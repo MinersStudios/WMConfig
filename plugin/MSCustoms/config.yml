@@ -3,3 +3,4 @@ wood-sound:
   break: custom.block.wood.break
   step: custom.block.wood.step
   hit: custom.block.wood.hit
+dosimeter-check-rate: 100
